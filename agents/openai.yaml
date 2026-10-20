@@ -1,0 +1,4 @@
+interface:
+  display_name: "Incremental Printable Report"
+  short_description: "Refresh a useful project report, save to Drive and print"
+  default_prompt: "Use $incremental-printable-report-skill for this project. Recover relevant prior context and owner corrections through native tools, reconcile current evidence, update the same canonical report in Google Drive, and deliver a reviewed static printable PDF. Include meaningful new outcomes and still-relevant actions, dates and calculations; omit process chatter and unchanged old completions. Print only when authorized and verify the exact save and print outcomes."
